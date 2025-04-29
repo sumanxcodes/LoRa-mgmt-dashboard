@@ -8,19 +8,19 @@ This project is a **Streamlit**-based dashboard to manage, visualize, and monito
 
 ### 1. Clone the project folder
 ```bash
-cd lora_dashboard
+cd LoRa-mgmt-dashboard
 ```
 
 ### 2. Create and activate a virtual environment
 ```bash
 # Create virtual environment
-python3 -m venv lora_env
+python3 -m venv lora-env
 
 # Activate (macOS/Linux)
-source lora_env/bin/activate
+source lora-env/bin/activate
 
 # Activate (Windows)
-lora_env\Scripts\activate
+lora-env\Scripts\activate
 ```
 
 ### 3. Install dependencies

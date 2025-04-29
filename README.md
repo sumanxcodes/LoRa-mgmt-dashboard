@@ -8,7 +8,7 @@ This project is a **Streamlit**-based dashboard to manage, visualize, and monito
 
 ### 1. Clone the project folder
 ```bash
-cd lora_dashboard
+cd LoRa-mgmt-dashboard
 ```
 
 ### 2. Create and activate a virtual environment
